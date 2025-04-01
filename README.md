@@ -17,26 +17,24 @@
 🌥️ 💰  
 
 ### What I Can Do  
-- Design scalable AWS architectures (EC2, S3, RDS, VPC).  
-- Automate cloud provisioning with **Terraform** , **AWS GO SDK** and AWS CloudFormation.  
-- 
+- Design scalable AWS architectures (eg:- EC2, S3, RDS, VPC).  
+- Automate cloud provisioning with **Terraform** , **AWS GO SDK** and **AWS CloudFormation**.  
 
 ### Use Cases  
-- Will add later  
--   
--   
+- Will add later   
 
 ### Deliverables  
 - Terraform modules for reusable infrastructure.  
 - AWS Well-Architected Framework reviews.  
-- Cost optimization dashboards.  
+- Cost optimization dashboards.
+- Writing Test cases for infrastructure.  
 
 ---
 
 <a id="serverless"></a>
 ## 🚀 Serverless & Backend Development  
 **Skills**: AWS Lambda, API Gateway, Go (Golang), Serverless Framework  
-:zap: :keyboard:  
+⌨️⚡ 
 
 ### What I Can Do  
 - Build **serverless APIs** (REST/gRPC) with Go and Lambda.  
@@ -57,14 +55,14 @@
 
 <a id="observability"></a>
 ## 🔍 Observability & Monitoring  
-**Skills**: New Relic, CloudWatch, Distributed Tracing, DataDog 
-:bar_chart: :mag_right:  
+**Skills**: New Relic, CloudWatch, Distributed Tracing, DataDog, Prometheus
+:numbers: :mag_right:  
 
 ### What I Can Do  
-- Set up monitoring/alerting with **New Relic** and CloudWatch.  
+- Set up monitoring/alerting with **New Relic** and **CloudWatch.**  
 - Troubleshoot bottlenecks using APM and distributed tracing.  
 - Track SLAs/SLOs for SaaS apps. 
-- End To End implementation of NewRelic and DataDog integrations with apps
+- End To End implementation of NewRelic, Prom and DataDog 
 - Automating alerts  
 
 ### Use Cases  
@@ -87,11 +85,12 @@
 ### What I Can Do  
 - Deploy containerized apps on Kubernetes (EKS, self-hosted).  
 - Manage multi-cluster setups with **Rancher**, **Helm**. **EKS** 
-- Package apps with Helm charts.  
+- Package apps with Helm charts or Terraform modules.  
 
 ### Use Cases  
 - Hybrid/multi-cloud Kubernetes deployments.  
-- Securing clusters (RBAC, network policies).  
+- Securing clusters (RBAC, network policies).
+- Istio networking policies for service to serv map  
 - CI/CD for containerized workloads.  
 
 ### Deliverables  
@@ -103,7 +102,7 @@
 
 <a id="devops"></a>
 ## 🔄 DevOps & CI/CD  
-**Skills**: GitHub Actions, ArgoCD, GitOps  
+**Skills**: GitHub Actions, ArgoCD, GitOps, Atlassian Stack  
 :rocket: :repeat:  
 
 ### What I Can Do  
