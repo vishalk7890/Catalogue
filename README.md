@@ -14,15 +14,15 @@
 <a id="cloud"></a>
 ## 🌥️ Cloud Infrastructure & Automation  
 **Skills**: AWS, Terraform, Infrastructure as Code (IaC), Cost Optimization  
-:cloud: :moneybag:  
+🌥️ 💰  
 
 ### What I Can Do  
 - Design scalable AWS architectures (EC2, S3, RDS, VPC).  
 - Automate cloud provisioning with **Terraform** , **AWS GO SDK** and AWS CloudFormation.  
-- O  
+- 
 
 ### Use Cases  
--   
+- Will add later  
 -   
 -   
 
